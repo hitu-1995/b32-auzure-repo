@@ -3,6 +3,7 @@
 void main()
 {
     printf("First Line by master \n");
+    printf("Second Line by dev1 \n");
     printf("Third Line by dev2 \n");
-       
+    
 }
